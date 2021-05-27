@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752893055725",
+    "project_id": "posterselltest",
+    "storage_bucket": "posterselltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752893055725:android:18e0c44c9abd9acd54b2e4",
+        "android_client_info": {
+          "package_name": "com.coaxn.posterselltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752893055725-ific0213ikpusolu1blg468veqckrrf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coaxn.posterselltest",
+            "certificate_hash": "cadc8bb81aeacc66690dca2d63988e2ace8f0fdf"
+          }
+        },
+        {
+          "client_id": "752893055725-t2kihv275fkb54v1dtganpgij230b688.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfROTb6Yh8DgomeI9aVSsRg39mHPPK7rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752893055725-t2kihv275fkb54v1dtganpgij230b688.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
